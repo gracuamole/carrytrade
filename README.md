@@ -1,4 +1,4 @@
-# carrytrade
-Explanation through Visualisation of Carry Trades
+# US/JP 10s v.s. USDJPY: Economic Relationship Explained
+Explanation through Visualisation.
 
-Please view the ipynb file to view my implementation of the carry trade between US/JP 10s and USDJPY.
+Please view the ipynb file to view my implementation and explanation of the economic relationship between US/JP 10s v.s. USDJPY.
